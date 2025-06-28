@@ -11,8 +11,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="" />][twitter]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="cccccccccccccccccccccc" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="bbbbbbbbbbbbbbbbb" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="www.linkedin.com/in/nivedh-pv" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="nivii._43" />][instagram]
 
