@@ -18,7 +18,7 @@
 
 
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/nivedh-pv
 
 
 [instagram]: https://www.instagram.com/nivii._43/
