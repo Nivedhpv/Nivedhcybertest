@@ -6,15 +6,19 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How im gonna start cybersecurity from Scratch]()
+- [How im gonna start cybersecurity job from Scratch Coming Soon]()
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="cccccccccccccccccccccc" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="bbbbbbbbbbbbbbbbb" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="www.linkedin.com/in/nivedh-pv" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="nivii._43" />][instagram]
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 
 [instagram]: https://www.instagram.com/nivii._43/
